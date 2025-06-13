@@ -8,7 +8,7 @@ This is my first cloud project showcasing a secure, fast static website hosted u
 - **CloudWatch** (Monitoring)
 
 ## 🌐 Live Preview
-👉 [https://d3plx4yqf6jrdh.cloudfront.net/](#)
+ [https://d3plx4yqf6jrdh.cloudfront.net/](https://d3plx4yqf6jrdh.cloudfront.net/)
 
 ## 📁 Tech Stack
 
